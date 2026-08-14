@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Test cache
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Generated results
+results/*
+!results/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Packaging
+build/
+dist/
+*.egg-info/
